@@ -24,11 +24,9 @@
 ## 📊 Stats
 
 <p align="center">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=panicathe&show_icons=true&count_private=true&hide_border=true
-    &bg_color=0D1117&title_color=FFD700&text_color=1E90FF&icon_color=FFD700" />
-  <img height="180em" 
-    src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ekdekdgkrp20" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=panicathe&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=1E90FF&icon_color=FFD700" />
+  
+  <img height="180em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ekdekdgkrp20" />
 </p>
 
 ---
