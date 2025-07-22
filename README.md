@@ -50,7 +50,7 @@
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
     </td>
   </tr>
 </table>
@@ -69,20 +69,20 @@
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg"  width="48" height="48" alt="Docker" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" />
     </td>
   </tr>
 </table>
 
-<!-- 💾 Databases & Tools -->
+<!-- 💾 Databases & Dev Tools -->
 <h3>💾 Databases & Dev Tools</h3>
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
@@ -120,5 +120,3 @@
     </td>
   </tr>
 </table>
-
-
