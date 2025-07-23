@@ -16,8 +16,9 @@
 
 - 🎓 Currently attending the **Shinhan DS Financial Software Academy** bootcamp  
 - 📚 Experienced with `JSP`, `Servlet`, `MyBatis`, and `Spring Legacy`  
-- 🚀 Planning to learn `Spring Boot`, `React`, and further strengthen knowledge in computer science and algorithms  
-- 🌱 Passionate about building clean, scalable, and efficient backend systems  
+- 🚀 Planning to learn `React`, and further strengthen knowledge in computer science and algorithms  
+- 🌱 Passionate about building clean, scalable, and efficient backend systems
+- 🔍 While I’ve explored a variety of technologies, I realized my understanding was somewhat shallow — so I'm now focusing on deepening my knowledge in each stack through consistent and in-depth study.
 
 ---
 
@@ -61,22 +62,26 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" height="55" alt="Spring Legacy" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/user-attachments/assets/64e9355d-d1f6-4fe3-9657-9e297d79e9ee" width="65" height="65" alt="Spring Boot" />
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API" />
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg"  width="48" height="48" alt="Docker" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg"  width="65" height="65" alt="Docker" />
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
     </td>
   </tr>
 </table>
+
 
 <!-- 💾 Databases & Dev Tools -->
 <h3>💾 Databases & Dev Tools</h3>
@@ -86,19 +91,19 @@
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="65" height="65" alt="Oracle" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="75" height="75" alt="GitHub" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="65" height="65" alt="Prettier" />
