@@ -67,13 +67,13 @@
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-    </td>
-    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg"  width="48" height="48" alt="Docker" />
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
     </td>
   </tr>
 </table>
@@ -89,16 +89,19 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="65" height="65" alt="Prettier" />
     </td>
   </tr>
 </table>
@@ -114,10 +117,10 @@
       <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" width="48" height="48" alt="Notion" />
     </td>
     <td align="center" width="96">
-      <img src="https://www.chartjs.org/media/logo-title.svg" width="48" height="48" alt="Chart.js" />
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <img src="https://www.chartjs.org/media/logo-title.svg" width="48" height="48" alt="Chart.js" />
     </td>
   </tr>
 </table>
