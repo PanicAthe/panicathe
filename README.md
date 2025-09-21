@@ -134,16 +134,16 @@
 ## 📜 Certifications
 
 <table>
+      <td align="center" width="300" style="padding: 15px; border: none;">
+      <img src="https://img.shields.io/badge/정보처리기사-2E8B57?style=for-the-badge&logo=google-scholar&logoColor=white" alt="정보처리기사" />
+      <br />
+      <span style="font-size: 12px; color: gray;">2025-09-12</span>
+    </td>
   <tr>
     <td align="center" width="300" style="padding: 15px; border: none;">
       <img src="https://img.shields.io/badge/SQLD-003B57?style=for-the-badge&logo=databricks&logoColor=white" alt="SQLD" />
       <br />
       <span style="font-size: 12px; color: gray;">2025-09-19</span>
-    </td>
-    <td align="center" width="300" style="padding: 15px; border: none;">
-      <img src="https://img.shields.io/badge/정보처리기사-2E8B57?style=for-the-badge&logo=google-scholar&logoColor=white" alt="정보처리기사" />
-      <br />
-      <span style="font-size: 12px; color: gray;">2025-09-12</span>
     </td>
   </tr>
 </table>
