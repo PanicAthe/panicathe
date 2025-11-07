@@ -1,24 +1,25 @@
-<h1 align="center">Hi 👋, I'm panicathe</h1>
-<h3 align="center">A passionate backend developer from Korea 🇰🇷</h3>
 
----
+<h1 align="center">안녕하세요 👋 백엔드 개발자 최은진 입니다</h1>
+
 
 ## About Me
 
 <p align="left">
-  <a href="mailto:ekdekdgkrp20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  <a href="mailto:panicathe@naver.com">
+    <img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white"/>
   </a>
   <a href="https://panicathe.github.io/">
-    <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
 
-- 🎓 Currently attending the **Shinhan DS Financial Software Academy** bootcamp  
-- 📚 Experienced with `JSP`, `Servlet`, `MyBatis`, and `Spring Legacy`  
-- 🚀 Planning to learn `React`, and further strengthen knowledge in computer science and algorithms  
-- 🌱 Passionate about building clean, scalable, and efficient backend systems
-- 🔍 While I’ve explored a variety of technologies, I realized my understanding was somewhat shallow — so I'm now focusing on deepening my knowledge in each stack through consistent and in-depth study.
+- 🎓 **인천대학교 컴퓨터공학부 졸업 (2025년 2월)**  
+- 🎓 **신한DS 금융 SW 아카데미 부트캠프 수료 (2025년 10월, 976시간 교육)**  
+- 💡 현재 `Spring Boot`, `Spring AI`, `RAG`, `Tool Calling`, `MCP` 중심으로 학습 중  
+- 🔍 **탄탄한 CS 지식과 실무 중심 백엔드 역량**을 쌓기 위해 깊이 있는 학습과 실습을 꾸준히 이어가고 있습니다.  
+- 🚀 **확장성 있는 설계**, **AI와 백엔드의 융합**에 관심이 많습니다.
+
+
 
 ---
 
