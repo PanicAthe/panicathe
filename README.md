@@ -149,7 +149,7 @@
     <td align="center" width="300" style="padding: 15px; border: none;">
       <img src="https://img.shields.io/badge/TOEIC-900점-0054A6?logoColor=white&labelColor=ce0018" alt="TOEIC 900" />
       <br />
-      <span style="font-size: 12px; color: gray;">2024-11-09</span>
+      <span style="font-size: 12px; color: gray;">2025-11-09</span>
     </td>
   </tr>
 </table>
