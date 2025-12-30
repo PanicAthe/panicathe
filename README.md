@@ -26,8 +26,8 @@
 ## 📊 Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-three-iota-41.vercel.app/api?username=panicathe&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=1E90FF&icon_color=FFD700" />  
-  <img height="180em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ekdekdgkrp20" />
+  <img height="180" src="https://github-readme-stats-three-iota-41.vercel.app/api?username=panicathe&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=1E90FF&icon_color=FFD700&v=1" />
+  <img height="180" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ekdekdgkrp20" />
 </p>
 
 ---
@@ -131,39 +131,14 @@
 
 ---
 
-## 📜 Certifications
 
+### 📜 Certifications
 
-<!-- 기술 자격증 -->
-<table>
-  <tr>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/정보처리기사-2E8B57?style=for-the-badge&logo=google-scholar&logoColor=white" />
-      <br />
-      <span style="font-size: 12px; color: gray;">2025-09-12</span>
-    </td>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/SQLD-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
-      <br />
-      <span style="font-size: 12px; color: gray;">2025-09-19</span>
-    </td>
-  </tr>
-</table>
-
-<!-- 영어 자격증 -->
-<table>
-  <tr>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/TOEIC-900점-0054A6?logoColor=white&labelColor=ce0018" />
-      <br />
-      <span style="font-size: 12px; color: gray;">2025-11-09</span>
-    </td>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/TOEIC%20Speaking-IH%20150-0054A6?logoColor=white&labelColor=ce0018" />
-      <br />
-      <span style="font-size: 12px; color: gray;">2025-12-13</span>
-    </td>
-  </tr>
-</table>
+| 자격증 | 점수/등급 | 취득일 |
+| :--- | :---: | :---: |
+| **정보처리기사** | - | 2025.09.12 |
+| **SQLD** | - | 2025.09.19 |
+| **TOEIC** | 900 | 2025.11.09 |
+| **TOEIC Speaking** | IH (150) | 2025.12.13 |
 
 
