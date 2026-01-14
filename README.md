@@ -1,8 +1,9 @@
 
 <h1 align="center">안녕하세요 👋 백엔드 개발자 최은진 입니다</h1>
 
-
-## About Me
+<a href="https://www.credly.com/badges/2e996661-2393-4397-99f5-49fb2f83b5ce/public_url">
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" align="right" height="160" alt="AWS SAA Badge"/>
+</a>
 
 <p align="left">
   <a href="mailto:panicathe@naver.com">
@@ -13,16 +14,27 @@
   </a>
 </p>
 
-- 🎓 **인천대학교 컴퓨터공학부 졸업 (2025년 2월)**  
-- 🎓 **신한DS 금융 SW 아카데미 부트캠프 수료 (2025년 10월, 976시간 교육)**  
+- 🎓 **인천대학교 컴퓨터공학부 졸업 (2025년 2월)**
+- 🎓 **신한DS 금융 SW 아카데미 부트캠프 수료 (2025년 10월, 976시간 교육)**
 - 💡 현재 `Spring Boot`, `Spring AI`, `RAG`, `Tool Calling`, `MCP` 중심으로 학습 중  
 - 🔍 **탄탄한 CS 지식과 실무 중심 백엔드 역량**을 쌓기 위해 깊이 있는 학습과 실습을 꾸준히 이어가고 있습니다.  
 - 🚀 **확장성 있는 설계**, **AI와 백엔드의 융합**에 관심이 많습니다.
 
+<br clear="right"/>
 
 
 ---
+### 📜 Certifications
 
+| 자격증 | 점수/등급 | 취득일 |
+| :--- | :---: | :---: |
+| **[AWS Solutions Architect - Associate](https://www.credly.com/badges/2e996661-2393-4397-99f5-49fb2f83b5ce/public_url)** | Pass | 2026.01.14 |
+| **정보처리기사** | Pass | 2025.09.12 |
+| **SQLD** | Pass | 2025.09.19 |
+| **TOEIC** | 900 | 2025.11.09 |
+| **TOEIC Speaking** | IH (150) | 2025.12.13 |
+
+---
 ## 📊 Stats
 
 <p align="center">
@@ -129,16 +141,5 @@
   </tr>
 </table>
 
----
-
-
-### 📜 Certifications
-
-| 자격증 | 점수/등급 | 취득일 |
-| :--- | :---: | :---: |
-| **정보처리기사** | - | 2025.09.12 |
-| **SQLD** | - | 2025.09.19 |
-| **TOEIC** | 900 | 2025.11.09 |
-| **TOEIC Speaking** | IH (150) | 2025.12.13 |
 
 
