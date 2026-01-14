@@ -28,11 +28,11 @@
 
 | 자격증 | 점수/등급 | 취득일 |
 | :--- | :---: | :---: |
-| **[AWS Solutions Architect - Associate](https://www.credly.com/badges/2e996661-2393-4397-99f5-49fb2f83b5ce/public_url)** | Pass | 2026.01.14 |
-| **정보처리기사** | Pass | 2025.09.12 |
-| **SQLD** | Pass | 2025.09.19 |
-| **TOEIC** | 900 | 2025.11.09 |
-| **TOEIC Speaking** | IH (150) | 2025.12.13 |
+| **[AWS Solutions Architect - Associate](https://www.credly.com/badges/2e996661-2393-4397-99f5-49fb2f83b5ce/public_url)** | Pass | 2026.01 |
+| **정보처리기사** | - | 2025.09 |
+| **SQLD** | - | 2025.09 |
+| **TOEIC** | 900 | 2025.11 |
+| **TOEIC Speaking** | IH (150) | 2025.12 |
 
 ---
 ## 📊 Stats
