@@ -1,10 +1,7 @@
 <h1 align="center">안녕하세요 👋 백엔드 개발자 최은진 입니다</h1>
 
-<a href="https://www.duolingo.com/profile/2OWD429164" target="_blank">
-  <img src="https://duolingo-stats-card.vercel.app/api?username=2OWD429164&theme=dark&compact=true" align="right" width="28%" alt="Duolingo Streak"/>
-</a>
 <a href="https://www.credly.com/badges/2e996661-2393-4397-99f5-49fb2f83b5ce/public_url">
-  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" align="right" width="110" alt="AWS SAA Badge"/>
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" align="right" width="160" alt="AWS SAA Badge"/>
 </a>
 
 <p align="left">
@@ -44,7 +41,7 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-stats-three-iota-41.vercel.app/api?username=panicathe&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=1E90FF&icon_color=FFD700&v=1" />
-  <img height="180" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ekdekdgkrp20" />
+   <img src="https://duolingo-stats-card.vercel.app/api?username=2OWD429164&theme=dark&compact=true" alt="Duolingo Streak"/>
 </p>
 
 ---
