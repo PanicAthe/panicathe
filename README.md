@@ -39,7 +39,7 @@
 ---
 ### 📊 Stats
 
-<p align="center">
+<p>
   <a href="https://github.com/panicathe">
     <img height="180" src="https://github-readme-stats-three-iota-41.vercel.app/api?username=panicathe&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=1E90FF&icon_color=FFD700&v=1" />
   </a>
