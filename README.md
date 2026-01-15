@@ -4,7 +4,7 @@
   <img src="https://duolingo-stats-card.vercel.app/api?username=2OWD429164&theme=dark&compact=true" align="right" width="28%" alt="Duolingo Streak"/>
 </a>
 <a href="https://www.credly.com/badges/2e996661-2393-4397-99f5-49fb2f83b5ce/public_url">
-  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" align="right" width="120" alt="AWS SAA Badge"/>
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" align="right" width="110" alt="AWS SAA Badge"/>
 </a>
 
 <p align="left">
