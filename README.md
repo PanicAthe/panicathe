@@ -23,8 +23,14 @@
 
 ---
 
-### 📜 Certifications
+### 🏆 Awards
 
+| 수상 명 | 훈격 | 수상일 | 관련 프로젝트 |
+| :--- | :---: | :---: | :--- |
+| **신한 DS 금융 SW 아카데미** | 🥇 최우수상 | 2025.10 | [**펭글로브 (Penglobe)**](https://github.com/Penglobe/.github) |
+| **인천대학교 졸업작품 경진대회** | 🥉 장려상 | 2024.05 | [**commINUty**](https://github.com/INU-ATLANTIS/ATLANTIS-SERVER) |
+
+### 📜 Certifications
 
 | 자격증 | 점수/등급 | 취득일 |
 | :--- | :---: | :---: |
@@ -33,8 +39,6 @@
 | **SQLD** | Pass | 2025.09 |
 | **TOEIC** | 900 | 2025.11 |
 | **TOEIC Speaking** | IH (150) | 2025.12 |
-
-
 
 ---
 ### 📊 Stats
@@ -50,7 +54,6 @@
 
 ---
 
-<!-- 🚀 Languages & Web -->
 <h3>🚀 Languages & Web</h3>
 <table>
   <tr>
@@ -75,7 +78,6 @@
   </tr>
 </table>
 
-<!-- 🛠 Backend & Infra -->
 <h3>🛠 Backend & Infra</h3>
 <table>
   <tr>
@@ -100,7 +102,6 @@
   </tr>
 </table>
 
-<!-- 💾 Databases & Dev Tools -->
 <h3>💾 Databases & Dev Tools</h3>
 <table>
   <tr>
@@ -125,7 +126,6 @@
   </tr>
 </table>
 
-<!-- 🤝 Collaboration & Design -->
 <h3>🤝 Collaboration & Design</h3>
 <table>
   <tr>
@@ -143,6 +143,3 @@
     </td>
   </tr>
 </table>
-
-
-
