@@ -72,9 +72,6 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" style="background-color: white; border-radius: 10px;" />
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" style="background-color: white; border-radius: 10px;" />
-    </td>
   </tr>
 </table>
 
@@ -95,9 +92,6 @@
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" style="background-color: white; border-radius: 10px;" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" style="background-color: white; border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -120,9 +114,6 @@
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="75" height="75" alt="GitHub" style="background-color: white; border-radius: 10px;" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" style="background-color: white; border-radius: 10px;" />
-    </td>
   </tr>
 </table>
 
@@ -137,9 +128,6 @@
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" style="background-color: white; border-radius: 10px;" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.chartjs.org/media/logo-title.svg" width="48" height="48" alt="Chart.js" style="background-color: white; border-radius: 10px;" />
     </td>
   </tr>
 </table>
