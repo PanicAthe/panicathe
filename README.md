@@ -50,81 +50,56 @@
 </p>
 
 ---
-
-<h3>🚀 Languages & Web</h3>
+🚀 Backend & Core
 <table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" style="background-color: white; border-radius: 10px;" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" style="background-color: white; border-radius: 10px;" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" style="background-color: white; border-radius: 10px;" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" style="background-color: white; border-radius: 10px;" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" style="background-color: white; border-radius: 10px;" />
-    </td>
-  </tr>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" style="background-color: white; border-radius: 10px;" />
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" height="55" alt="Spring Legacy" style="background-color: white; border-radius: 10px;" />
+</td>
+<td align="center" width="96">
+<img src="https://github.com/user-attachments/assets/64e9355d-d1f6-4fe3-9657-9e297d79e9ee" width="65" height="65" alt="Spring Boot" style="background-color: white; border-radius: 10px;" />
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API" style="background-color: white; border-radius: 10px;" />
+</td>
+</tr>
 </table>
 
-<h3>🛠 Backend & Infra</h3>
+☁️ Cloud & Infra
 <table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" height="55" alt="Spring Legacy" style="background-color: white; border-radius: 10px;" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://github.com/user-attachments/assets/64e9355d-d1f6-4fe3-9657-9e297d79e9ee" width="65" height="65" alt="Spring Boot" style="background-color: white; border-radius: 10px;" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API" style="background-color: white; border-radius: 10px;" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" style="background-color: white; border-radius: 10px;" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" style="background-color: white; border-radius: 10px;" />
-    </td>
-  </tr>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" style="background-color: white; border-radius: 10px;" />
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" style="background-color: white; border-radius: 10px;" />
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" style="background-color: white; border-radius: 10px;" />
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="65" height="65" alt="Oracle" style="background-color: white; border-radius: 10px;" />
+</td>
+</tr>
 </table>
 
-<h3>💾 Databases & Dev Tools</h3>
+🛠 Tools & Collaboration
 <table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" style="background-color: white; border-radius: 10px;" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="65" height="65" alt="Oracle" style="background-color: white; border-radius: 10px;" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" style="background-color: white; border-radius: 10px;" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" style="background-color: white; border-radius: 10px;" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="75" height="75" alt="GitHub" style="background-color: white; border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
-
-<h3>🤝 Collaboration & Design</h3>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/slack.svg" width="48" height="48" alt="Slack" style="background-color: white; border-radius: 10px;" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" width="48" height="48" alt="Notion" style="background-color: white; border-radius: 10px;" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" style="background-color: white; border-radius: 10px;" />
-    </td>
-  </tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" style="background-color: white; border-radius: 10px;" />
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" style="background-color: white; border-radius: 10px;" />
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" style="background-color: white; border-radius: 10px;" />
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" width="48" height="48" alt="Notion" style="background-color: white; border-radius: 10px;" />
+</td>
+</tr>
 </table>
