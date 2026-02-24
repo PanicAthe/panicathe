@@ -1,7 +1,7 @@
 <h1 align="center">안녕하세요 👋 백엔드 개발자 최은진 입니다</h1>
 
 <a href="https://www.credly.com/badges/2e996661-2393-4397-99f5-49fb2f83b5ce/public_url">
-  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" align="right" width="120" alt="AWS SAA Badge"/>
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" align="right" width="100" alt="AWS SAA Badge"/>
 </a>
 
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 - 🎓 **인천대학교 컴퓨터공학부 졸업 (2025년 2월)**
-- 🎓 **신한DS 금융 SW 아카데미 수료 (2025년 10월)**
+- 🎓 **신한DS 금융 SW 아카데미 수료 (2025.04 - 2025.10, 총 976시간)**
 
 <br clear="all"/>
 
