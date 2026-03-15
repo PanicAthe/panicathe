@@ -80,9 +80,9 @@
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" style="background-color: white; border-radius: 10px;" />
 </td>
-<td align="center" width="96">
+<!-- <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="65" height="65" alt="Oracle" style="background-color: white; border-radius: 10px;" />
-</td>
+</td> -->
 </tr>
 </table>
 
